@@ -183,6 +183,8 @@ Modern software engineering is moving from **DevOps → AIDevOps**. Developers c
 **Mohiuddin** — PGD/MSc Research Project  
 Focused on AI-assisted software engineering for the Bangladeshi startup ecosystem.
 
+- GitHub: [@dev-mohiuddin](https://github.com/dev-mohiuddin)
+
 ---
 
 ## 📄 License
